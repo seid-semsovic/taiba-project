@@ -1,6 +1,1 @@
-# taiba-project
-# taiba-project
-# taiba-project
-# taiba-project
-# taiba-project
-# taiba-project
+when cloning the project, use npm install first
